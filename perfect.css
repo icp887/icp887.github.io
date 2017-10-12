@@ -1,0 +1,32 @@
+.parallax1{ 
+    background-image: url(parallax.jpeg);
+    height:500px;
+    width:1368px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.parallax2{ 
+    background-image: url(parallax2.jpeg);
+    height:300px;
+    width:1368px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+    
+.mainimages{
+    background-image: url(perfectbackground1.jpeg);
+    height:700px;
+    width:auto;
+    color:white;
+}
+
+.col-sm-4{
+    margin-top: 40px;
+    padding:60px 10px 60px 10px;
+}
