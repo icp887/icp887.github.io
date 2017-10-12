@@ -21,13 +21,13 @@
 
 .jumbotron1{
     background-color: #c23e3d;
-    height:300px;
+    height:auto;
     min-height:300px;
 }
 
 .jumbotron2{
     background-color: #6ee9f4;
-    height:300px;    
+    height:auto;    
 }
 
 .jumbotron1text{
@@ -37,6 +37,7 @@
 
 .jumbotron2text{
     padding-top: 50px;
+    padding-bottom: 70px;
 }
 
 .indexmainimages{
@@ -46,7 +47,7 @@
 
 .jumbotron3{
     background-color: #6ee9f4;
-    height:300px;    
+    height:auto;    
 }
 
 .img-responsive{
